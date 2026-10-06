@@ -1,0 +1,116 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\trabajo 0.2\\Semana06\\GestionGastos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E9414D3F-AC60-7EFA-22AF-456DE5D940F8}|GestionGastos\\GestionGastos.csproj|d:\\trabajo 0.2\\semana06\\gestiongastos\\gestiongastos\\views\\formgastos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9414D3F-AC60-7EFA-22AF-456DE5D940F8}|GestionGastos\\GestionGastos.csproj|solutionrelative:gestiongastos\\views\\formgastos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9414D3F-AC60-7EFA-22AF-456DE5D940F8}|GestionGastos\\GestionGastos.csproj|D:\\trabajo 0.2\\Semana06\\GestionGastos\\gestiongastos\\views\\formgastos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E9414D3F-AC60-7EFA-22AF-456DE5D940F8}|GestionGastos\\GestionGastos.csproj|solutionrelative:gestiongastos\\views\\formgastos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9414D3F-AC60-7EFA-22AF-456DE5D940F8}|GestionGastos\\GestionGastos.csproj|d:\\trabajo 0.2\\semana06\\gestiongastos\\gestiongastos\\config\\conexionsqlite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9414D3F-AC60-7EFA-22AF-456DE5D940F8}|GestionGastos\\GestionGastos.csproj|solutionrelative:gestiongastos\\config\\conexionsqlite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9414D3F-AC60-7EFA-22AF-456DE5D940F8}|GestionGastos\\GestionGastos.csproj|d:\\trabajo 0.2\\semana06\\gestiongastos\\gestiongastos\\dao\\gastodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9414D3F-AC60-7EFA-22AF-456DE5D940F8}|GestionGastos\\GestionGastos.csproj|solutionrelative:gestiongastos\\dao\\gastodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9414D3F-AC60-7EFA-22AF-456DE5D940F8}|GestionGastos\\GestionGastos.csproj|d:\\trabajo 0.2\\semana06\\gestiongastos\\gestiongastos\\models\\gastos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9414D3F-AC60-7EFA-22AF-456DE5D940F8}|GestionGastos\\GestionGastos.csproj|solutionrelative:gestiongastos\\models\\gastos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9414D3F-AC60-7EFA-22AF-456DE5D940F8}|GestionGastos\\GestionGastos.csproj|d:\\trabajo 0.2\\semana06\\gestiongastos\\gestiongastos\\controllers\\gastocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9414D3F-AC60-7EFA-22AF-456DE5D940F8}|GestionGastos\\GestionGastos.csproj|solutionrelative:gestiongastos\\controllers\\gastocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "formGastos.cs",
+              "DocumentMoniker": "D:\\trabajo 0.2\\Semana06\\GestionGastos\\GestionGastos\\Views\\formGastos.cs",
+              "RelativeDocumentMoniker": "GestionGastos\\Views\\formGastos.cs",
+              "ToolTip": "D:\\trabajo 0.2\\Semana06\\GestionGastos\\GestionGastos\\Views\\formGastos.cs",
+              "RelativeToolTip": "GestionGastos\\Views\\formGastos.cs",
+              "ViewState": "AgIAAJwAAAAAAAAAAAAgwKoAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T12:57:39.568Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "formGastos.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\trabajo 0.2\\Semana06\\GestionGastos\\GestionGastos\\Views\\formGastos.cs",
+              "RelativeDocumentMoniker": "GestionGastos\\Views\\formGastos.cs",
+              "ToolTip": "D:\\trabajo 0.2\\Semana06\\GestionGastos\\GestionGastos\\Views\\formGastos.cs [Dise\u00F1o]",
+              "RelativeToolTip": "GestionGastos\\Views\\formGastos.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T12:57:13.136Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Gastos.cs",
+              "DocumentMoniker": "D:\\trabajo 0.2\\Semana06\\GestionGastos\\GestionGastos\\Models\\Gastos.cs",
+              "RelativeDocumentMoniker": "GestionGastos\\Models\\Gastos.cs",
+              "ToolTip": "D:\\trabajo 0.2\\Semana06\\GestionGastos\\GestionGastos\\Models\\Gastos.cs",
+              "RelativeToolTip": "GestionGastos\\Models\\Gastos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T13:34:42.299Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GastoController.cs",
+              "DocumentMoniker": "D:\\trabajo 0.2\\Semana06\\GestionGastos\\GestionGastos\\Controllers\\GastoController.cs",
+              "RelativeDocumentMoniker": "GestionGastos\\Controllers\\GastoController.cs",
+              "ToolTip": "D:\\trabajo 0.2\\Semana06\\GestionGastos\\GestionGastos\\Controllers\\GastoController.cs",
+              "RelativeToolTip": "GestionGastos\\Controllers\\GastoController.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAowBEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T13:20:05.016Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GastoDAO.cs",
+              "DocumentMoniker": "D:\\trabajo 0.2\\Semana06\\GestionGastos\\GestionGastos\\DAO\\GastoDAO.cs",
+              "RelativeDocumentMoniker": "GestionGastos\\DAO\\GastoDAO.cs",
+              "ToolTip": "D:\\trabajo 0.2\\Semana06\\GestionGastos\\GestionGastos\\DAO\\GastoDAO.cs",
+              "RelativeToolTip": "GestionGastos\\DAO\\GastoDAO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-01T13:25:29.881Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ConexionSqlite.cs",
+              "DocumentMoniker": "D:\\trabajo 0.2\\Semana06\\GestionGastos\\GestionGastos\\Config\\ConexionSqlite.cs",
+              "RelativeDocumentMoniker": "GestionGastos\\Config\\ConexionSqlite.cs",
+              "ToolTip": "D:\\trabajo 0.2\\Semana06\\GestionGastos\\GestionGastos\\Config\\ConexionSqlite.cs",
+              "RelativeToolTip": "GestionGastos\\Config\\ConexionSqlite.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T13:34:51.509Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
